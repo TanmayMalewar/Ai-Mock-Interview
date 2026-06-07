@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <br />
     <a href="https://www.youtube.com/watch?v=8GK8R77Bd7g" target="_blank">
       <img src="https://github.com/user-attachments/assets/1c0131c7-9f2d-4e3b-b47c-9679e76d8f9a" alt="Project Banner">
@@ -719,3 +719,4 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 <a href="https://jsmastery.pro/next15" target="_blank">
    <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
 </a>
+](https://github.com/rutujbarsagade/Ai-Mock-Interview)
